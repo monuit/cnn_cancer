@@ -1,0 +1,11 @@
+# Ignore entire directories
+history/
+models/
+test/
+train/
+venv/
+
+# Ignore CSV and ZIP files
+*.csv
+*.zip
+EOF
